@@ -233,7 +233,7 @@ The project documentation contains screenshots of:
 
 ## Project Structure
 
-
+```text
 aws-ec2-nginx-portfolio-deployment
 │
 ├── README.md
@@ -256,7 +256,7 @@ aws-ec2-nginx-portfolio-deployment
 └── index.html
 └── me.jpeg
 └── Jiya_Pardeshi_CAD_Resume(1).pdf
-
+```
 ---
 
 ## Learning Outcomes
