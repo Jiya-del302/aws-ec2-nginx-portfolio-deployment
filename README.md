@@ -233,11 +233,11 @@ The project documentation contains screenshots of:
 
 ## Project Structure
 
-```text
+
 aws-ec2-nginx-portfolio-deployment
 │
 ├── README.md
-├|
+|
 ├── screenshots
 │   ├── vpc.png
 │   ├── subnet.png
@@ -246,12 +246,16 @@ aws-ec2-nginx-portfolio-deployment
 │   ├── nginx.png
 │   ├── website.png
 │   └── repo.png
+├── images
+│   ├── aws.jpeg
+│   ├── cloud.jpeg
+│   ├── devops.jpeg
+│   ├── fullstack.jpeg
+│   ├── pic.jpeg
 │
-└── website
-    ├── index.html
-    |
-    └── images/
-```
+└── index.html
+└── me.jpeg
+└── Jiya_Pardeshi_CAD_Resume(1).pdf
 
 ---
 
