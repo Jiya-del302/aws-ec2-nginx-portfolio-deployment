@@ -21,7 +21,6 @@ The project covers the complete deployment lifecycle, from infrastructure setup 
 * Nginx Web Server
 * Git & Git Bash
 * HTML5
-* CSS3
 * Linux Command Line
 
 ---
