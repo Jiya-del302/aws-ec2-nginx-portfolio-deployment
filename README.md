@@ -1,5 +1,3 @@
-Here's a professional **README.md** description and flow you can directly use for your GitHub project.
-
 # AWS EC2 Nginx Portfolio Deployment
 
 ## Project Overview
